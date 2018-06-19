@@ -1,0 +1,15 @@
+# MAC
+.DS_Store
+
+# Editor
+.buildpath
+.cache
+.metadata
+.project
+.settings
+.idea/
+nbproject
+
+# Node and Bower components
+node_modules
+bower_components
