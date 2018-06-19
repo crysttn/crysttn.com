@@ -9,7 +9,7 @@ body {
 	font-weight: 400;
 	font-size: 15px;
 	line-height: 1.8;
-	color: lighten($black, 70%);
+	color: lighten($black, 50%);
 	background: $white;
 }
 a {
@@ -443,7 +443,7 @@ main {
 	.date {
 		border-right: 1px solid #ccc;
 		text-transform: uppercase;
-		color: lighten($black, 70%);
+		color: lighten($black, 50%);
 	}
 	.more {
 		text-transform: uppercase;

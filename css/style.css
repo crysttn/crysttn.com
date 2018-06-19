@@ -1,9 +1,9 @@
 body {
-  font-family: "Open Sans", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   font-weight: 400;
   font-size: 15px;
   line-height: 1.8;
-  color: #b3b3b3;
+  color: gray;
   background: #fff;
 }
 
@@ -19,7 +19,7 @@ a:hover {
 
 h1, h2, h3, h4, h5 {
   color: #000;
-  font-family: "Playfair Display", times, serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
 
 .btn, .form-control {
@@ -514,7 +514,7 @@ main {
 .event-list-item .date {
   border-right: 1px solid #ccc;
   text-transform: uppercase;
-  color: #b3b3b3;
+  color: gray;
 }
 
 .event-list-item .more {
@@ -551,7 +551,7 @@ main {
 
 .upcoming-events-highlight h2 {
   font-size: 20px;
-  font-family: "Playfair Display", times, serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
 
 .upcoming-events-highlight h2 a {
@@ -571,7 +571,7 @@ main {
   padding: 20px;
   text-align: center;
   font-size: 30px;
-  font-family: "Playfair Display", times, serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
   color: #fff;
   line-height: 1;
 }
